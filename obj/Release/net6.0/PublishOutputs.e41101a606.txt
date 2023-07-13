@@ -1,0 +1,7 @@
+/home/htadmin/Music/dotnet-demo/bin/Release/net6.0/publish/dotnet-demo
+/home/htadmin/Music/dotnet-demo/bin/Release/net6.0/publish/appsettings.Development.json
+/home/htadmin/Music/dotnet-demo/bin/Release/net6.0/publish/appsettings.json
+/home/htadmin/Music/dotnet-demo/bin/Release/net6.0/publish/dotnet-demo.dll
+/home/htadmin/Music/dotnet-demo/bin/Release/net6.0/publish/dotnet-demo.deps.json
+/home/htadmin/Music/dotnet-demo/bin/Release/net6.0/publish/dotnet-demo.runtimeconfig.json
+/home/htadmin/Music/dotnet-demo/bin/Release/net6.0/publish/dotnet-demo.pdb
